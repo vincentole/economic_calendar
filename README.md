@@ -1,2 +1,5 @@
-# economic_calendar
-Scrape, visualize, and analyze economic indicators.
+# Economic Calendar
+
+This project is for my personal learning, however, anyone who is also studying quantitative finance might find this helpful.
+
+I demonstrate how you can scrape, visualize, and analyze economic indicators.
